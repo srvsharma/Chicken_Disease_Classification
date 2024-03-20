@@ -1,3 +1,3 @@
 from src.ChickenDiseaseClassifier import logger
 
-logger.info("Weelcome to my custom log")
+logger.info("Welcome to my custom log")
